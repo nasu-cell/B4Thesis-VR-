@@ -1,0 +1,45 @@
+# Unity生成フォルダ
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Bb]uild/
+[Bb]uilds/
+[Uu]ser[Ss]ettings/
+
+# Unity ファイル
+*.pidb
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.booproj
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# VS / Rider
+.vs/
+.vscode/
+*.csproj
+*.sln
+
+# Python
+Assets/Resources/.venv/
+Assets/Resources/__pycache__/
+Assets/Resources/*.pyc
+Assets/Resources/.python-version
+
+# PLATEAU 3D都市データ（容量1.7GB のため除外）
+Assets/StreamingAssets/.PLATEAU/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Meta ファイルの例外（Unityが必要とするため追跡する）
+!*.meta
