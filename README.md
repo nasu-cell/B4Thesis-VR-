@@ -116,6 +116,7 @@ XR Origin全体を30°単位でスナップ回転させます。
 ## スクリーンショット / デモ
 ### 被験者の様子
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/b1bc0f31-e7aa-465e-8d31-f07a7c3048ad" />
+
 ### 使用したシーン
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/645cdc13-0c26-410a-aa93-ce61e440ac10" />
 
