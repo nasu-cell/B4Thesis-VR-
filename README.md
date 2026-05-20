@@ -115,6 +115,7 @@ XR Origin全体を30°単位でスナップ回転させます。
 
 ## スクリーンショット / デモ
 ###マーカ読み取りの様子
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/c8900b77-9252-4efd-8aa8-c5f6def9714e" />
 
 ### 被験者の様子
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/b1bc0f31-e7aa-465e-8d31-f07a7c3048ad" />
