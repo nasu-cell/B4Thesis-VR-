@@ -114,6 +114,7 @@ XR Origin全体を30°単位でスナップ回転させます。
 - **PLATEAUデータ活用**: 実在する台東区の3D建物・道路データを使用することで現実感のある走行体験を提供
 
 ## スクリーンショット / デモ
+### 被験者の様子
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/b1bc0f31-e7aa-465e-8d31-f07a7c3048ad" />
 
 
